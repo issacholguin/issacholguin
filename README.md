@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey, I’m Issac 👋
 
-<!--
-**issacholguin/issacholguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Software Engineer.
 
-Here are some ideas to get you started:
+I've led and contributed to projects spanning front-end, back-end, and DevOps. My expertise lies in building and optimizing web applications using modern frameworks like React + Next.js, TypeScript, Express.js and Flask/Python, while leveraging AWS cloud infrastructure for scalable deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I focus on
+- 🧱 **Full-Stack Engineering** – Experienced in building and maintaining scalable systems across the front and back end, with clean, well-structured code and a strong grasp of infrastructure.
+- ⚙️ **DevOps & Automation** – Comfortable setting up CI/CD with GitHub Actions and deploying on AWS with a focus on repeatability and security.
+- 💻 **Modern Web Development** – Skilled in React, Next.js, TypeScript, PayloadCMS, Flask, and Express. I enjoy building thoughtful, user-centric applications.
+- 🤖 **AI-Enhanced Workflows** – Exploring how tools like Cursor and OpenAI can boost productivity, automate workflows, and support better developer experience.
+
+
+### 🌱 Currently Exploring/Learning
+- Rapid prototyping with modern BaaS platforms like PayloadCMS, Convex, and Supabase — aiming to ship faster without sacrificing flexibility.
+
+### 📫 Let’s connect!
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/issacholguin)
+- 🌐 [Portfolio](https://issacholgu.in/)
+
+> *“Good software starts with good conversations.”*  
+> Let’s build something that actually matters.
+
+
